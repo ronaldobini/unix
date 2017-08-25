@@ -1,0 +1,415 @@
+   #[1]publisher [2]alternate
+
+   Breaking News
+   [3]Home+
+   [4]Regions[5]U.S.
+   Politics[6]Money[7]Entertainment[8]Tech[9]Sport[10]Travel[11]Style[12]F
+   eatures[13]Video
+   [14]Live TV
+   ____________________ (BUTTON) Search »
+   International Edition+
+   U.S.
+   International
+   Arabic
+   Español
+
+   Set edition preference:
+   (*) U.S. ( ) International (BUTTON) Confirm
+   International Edition+
+   U.S.
+   International
+   Arabic
+   Español
+
+   Set edition preference:
+   (*) U.S. ( ) International (BUTTON) Confirm
+   [15]Home
+
+   [16]Regions
+     * [17]U.S.
+     * [18]Africa
+     * [19]Americas
+     * [20]Asia
+     * [21]China
+     * [22]Europe
+     * [23]Middle East
+     * [24]Opinion
+
+   [25]U.S. Politics
+     * [26]Election Results
+     * [27]Nation
+     * [28]World
+     * [29]Our Team
+
+   [30][menu_money.png]
+     * [31]Business
+     * [32]Markets
+     * [33]Tech
+     * [34]Luxury
+
+   [35]Entertainment
+     * [36]Celebrity Watch
+     * [37]TV + Web
+     * [38]Movies + Music
+
+   [39][menu_tech.png]
+     * [40]Gadgets
+     * [41]Cyber Security
+     * [42]Innovation Nation
+     * [43]Vital Signs
+
+   [44]Sport
+     * [45]Football
+     * [46]Golf
+     * [47]Tennis
+     * [48]Motorsport
+     * [49]Horseracing
+     * [50]Equestrian
+     * [51]Sailing
+     * [52]Skiing
+
+   [53]Travel
+     * [54]Aviation
+     * [55]Business Traveller
+     * [56]Destinations
+     * [57]Features
+     * [58]Food/Drink
+     * [59]Hotels
+     * [60]Partner Hotels
+
+   [61][menu_style.png]
+     * [62]Fashion
+     * [63]Design
+     * [64]Architecture
+     * [65]Arts
+     * [66]Autos
+     * [67]Luxury
+
+   [68]Features
+     * [69]Freedom Project
+     * [70]Impact Your World
+     * [71]Inside Africa
+     * [72]2 degrees
+     * [73]All Features
+
+   [74]Video
+     * [75]Video news
+     * [76]Feature shows
+     * [77]TV shows
+     * [78]TV schedule
+     * [79]Faces of CNN Worldwide
+
+   [80]More…
+     * [81]Weather
+     * [82]CNN Heroes
+     * [83]CNN Profiles
+     * [84]Leadership
+     * [85]Pressroom
+     * [86]Partner sites
+     * [87]iReport
+
+   [logo_cnn_nav_bottom.png] U.S.
+   [logo_cnn_nav_bottom.png] International
+   [logo_cnn_espaniol.png] Español
+   [logo_cnn_arabic.png] Arabic
+
+   Set edition preference:
+   (*) U.S. ( ) International (BUTTON) Confirm
+   [88]Facebook[89]Twitter[90]Instagram
+
+   ____________________ (BUTTON)
+
+    1. [91]Home
+
+    1. [92]Regions
+         1. [93]U.S.
+         2. [94]Africa
+         3. [95]Americas
+         4. [96]Asia
+         5. [97]China
+         6. [98]Europe
+         7. [99]Middle East
+         8. [100]Opinion
+
+    1. [101]U.S. Politics
+         1. [102]Election Results
+         2. [103]Nation
+         3. [104]World
+         4. [105]Our Team
+
+    1. [106][menu_money.png]
+         1. [107]Business
+         2. [108]Markets
+         3. [109]Tech
+         4. [110]Luxury
+
+    1. [111]Entertainment
+         1. [112]Celebrity Watch
+         2. [113]TV + Web
+         3. [114]Movies + Music
+
+    1. [115][menu_tech.png]
+         1. [116]Gadgets
+         2. [117]Cyber Security
+         3. [118]Innovation Nation
+         4. [119]Vital Signs
+
+    1. [120]Sport
+         1. [121]Football
+         2. [122]Golf
+         3. [123]Tennis
+         4. [124]Motorsport
+         5. [125]Horseracing
+         6. [126]Equestrian
+         7. [127]Sailing
+         8. [128]Skiing
+
+    1. [129]Travel
+         1. [130]Aviation
+         2. [131]Business Traveller
+         3. [132]Destinations
+         4. [133]Features
+         5. [134]Food/Drink
+         6. [135]Hotels
+         7. [136]Partner Hotels
+
+    1. [137][menu_style.png]
+         1. [138]Fashion
+         2. [139]Design
+         3. [140]Architecture
+         4. [141]Arts
+         5. [142]Autos
+         6. [143]Luxury
+
+    1. [144]Features
+         1. [145]Freedom Project
+         2. [146]Impact Your World
+         3. [147]Inside Africa
+         4. [148]2 degrees
+         5. [149]All Features
+
+    1. [150]Video
+         1. [151]Video news
+         2. [152]Feature shows
+         3. [153]TV shows
+         4. [154]TV schedule
+         5. [155]Faces of CNN Worldwide
+
+    1. [156]More…
+         1. [157]Weather
+         2. [158]CNN Heroes
+         3. [159]CNN Profiles
+         4. [160]Leadership
+         5. [161]Pressroom
+         6. [162]Partner sites
+         7. [163]iReport
+
+   International Edition
+     * Set edition preference:
+     * (*) U.S.
+     * ( ) International
+     * (BUTTON) Confirm
+     * U.S.
+     * International
+     * Arabic
+     * Español
+
+   © 2016 Cable News Network. [164]Turner Broadcasting System, Inc.
+   All Rights Reserved.
+   CNN Sans ™ & © 2016 Cable News Network.
+     * [165]Terms of Use
+     * [166]Privacy Policy
+     * [167]AdChoices
+     * [168]Advertise with us
+     * [169]About us
+     * [170]Newsletters
+     * [171]Work for us
+     * [172]Help
+     * [173]Transcripts
+     * [174]License Footage
+     * [175]CNN Newsource
+
+   Quantcast
+
+References
+
+   Visible links
+   1. https://plus.google.com/+cnn/posts
+   2. android-app://com.cnn.mobile.android.phone/http/www.cnn.com
+   3. http://edition.cnn.com/
+   4. http://edition.cnn.com/regions
+   5. http://edition.cnn.com/politics
+   6. http://money.cnn.com/INTERNATIONAL/
+   7. http://edition.cnn.com/entertainment
+   8. http://edition.cnn.com/tech
+   9. http://edition.cnn.com/sport
+  10. http://edition.cnn.com/travel
+  11. http://edition.cnn.com/style
+  12. http://edition.cnn.com/specials
+  13. http://edition.cnn.com/videos
+  14. http://go.cnn.com/?stream=cnni&sr=watchLiveHPbutton&source=edition
+  15. http://edition.cnn.com/
+  16. http://edition.cnn.com/regions
+  17. http://edition.cnn.com/us
+  18. http://edition.cnn.com/africa
+  19. http://edition.cnn.com/americas
+  20. http://edition.cnn.com/asia
+  21. http://edition.cnn.com/china
+  22. http://edition.cnn.com/europe
+  23. http://edition.cnn.com/middle-east
+  24. http://edition.cnn.com/opinions
+  25. http://edition.cnn.com/politics
+  26. http://edition.cnn.com/election/results
+  27. http://edition.cnn.com/specials/politics/national-politics
+  28. http://edition.cnn.com/specials/politics/world-politics
+  29. http://edition.cnn.com/specials/politics/politics-our-team
+  30. http://money.cnn.com/INTERNATIONAL/
+  31. http://money.cnn.com/news/
+  32. http://money.cnn.com/data/markets/
+  33. http://money.cnn.com/technology/
+  34. http://money.cnn.com/luxury/
+  35. http://edition.cnn.com/entertainment
+  36. http://edition.cnn.com/specials/showbiz/celebrity-watch
+  37. http://edition.cnn.com/specials/showbiz/tv-web
+  38. http://edition.cnn.com/specials/showbiz/movies-music
+  39. http://edition.cnn.com/tech
+  40. http://edition.cnn.com/specials/tech/consumer-tech
+  41. http://edition.cnn.com/specials/tech/cybersecurity
+  42. http://money.cnn.com/technology/innovationnation
+  43. http://edition.cnn.com/specials/health/vital-signs
+  44. http://edition.cnn.com/sport
+  45. http://edition.cnn.com/sport/football
+  46. http://edition.cnn.com/sport/golf
+  47. http://edition.cnn.com/sport/tennis
+  48. http://edition.cnn.com/sport/motorsport
+  49. http://edition.cnn.com/sport/horse-racing
+  50. http://edition.cnn.com/sport/equestrian
+  51. http://edition.cnn.com/sport/sailing
+  52. http://edition.cnn.com/sport/skiing
+  53. http://edition.cnn.com/travel
+  54. http://edition.cnn.com/travel/aviation
+  55. http://edition.cnn.com/specials/travel/business-traveller
+  56. http://edition.cnn.com/travel/destinations
+  57. http://edition.cnn.com/specials/travel
+  58. http://edition.cnn.com/travel/food-and-drink
+  59. http://edition.cnn.com/travel/hotels
+  60. http://www.cnnpartners.com/
+  61. http://edition.cnn.com/style
+  62. http://edition.cnn.com/style/fashion
+  63. http://edition.cnn.com/style/design
+  64. http://edition.cnn.com/style/architecture
+  65. http://edition.cnn.com/style/arts
+  66. http://edition.cnn.com/style/autos
+  67. http://edition.cnn.com/style/luxury
+  68. http://edition.cnn.com/specials
+  69. http://edition.cnn.com/specials/world/freedom-project
+  70. http://edition.cnn.com/specials/impact-your-world
+  71. http://edition.cnn.com/specials/africa/inside-africa
+  72. http://edition.cnn.com/specials/opinions/two-degrees
+  73. http://edition.cnn.com/specials
+  74. http://edition.cnn.com/videos
+  75. http://edition.cnn.com/specials/latest-news-videos
+  76. http://edition.cnn.com/specials/international-video-landing/feature-show-videos
+  77. http://edition.cnn.com/tv/shows
+  78. http://edition.cnn.com/tv/schedule/europe
+  79. http://edition.cnn.com/specials/tv/anchors-and-reporters
+  80. http://edition.cnn.com/more
+  81. http://edition.cnn.com/weather
+  82. http://edition.cnn.com/specials/cnn-heroes
+  83. http://edition.cnn.com/specials/profiles
+  84. http://edition.cnn.com/specials/more/cnn-leadership
+  85. http://cnnpressroom.blogs.cnn.com/
+  86. http://edition.cnn.com/specials/world/specials-page-cnn-partners
+  87. http://edition.cnn.com/specials/opinions/cnnireport
+  88. https://www.facebook.com/cnninternational
+  89. https://twitter.com/cnni
+  90. http://instagram.com/cnn
+  91. http://edition.cnn.com/
+  92. http://edition.cnn.com/regions
+  93. http://edition.cnn.com/us
+  94. http://edition.cnn.com/africa
+  95. http://edition.cnn.com/americas
+  96. http://edition.cnn.com/asia
+  97. http://edition.cnn.com/china
+  98. http://edition.cnn.com/europe
+  99. http://edition.cnn.com/middle-east
+ 100. http://edition.cnn.com/opinions
+ 101. http://edition.cnn.com/politics
+ 102. http://edition.cnn.com/election/results
+ 103. http://edition.cnn.com/specials/politics/national-politics
+ 104. http://edition.cnn.com/specials/politics/world-politics
+ 105. http://edition.cnn.com/specials/politics/politics-our-team
+ 106. http://money.cnn.com/INTERNATIONAL/
+ 107. http://money.cnn.com/news/
+ 108. http://money.cnn.com/data/markets/
+ 109. http://money.cnn.com/technology/
+ 110. http://money.cnn.com/luxury/
+ 111. http://edition.cnn.com/entertainment
+ 112. http://edition.cnn.com/specials/showbiz/celebrity-watch
+ 113. http://edition.cnn.com/specials/showbiz/tv-web
+ 114. http://edition.cnn.com/specials/showbiz/movies-music
+ 115. http://edition.cnn.com/tech
+ 116. http://edition.cnn.com/specials/tech/consumer-tech
+ 117. http://edition.cnn.com/specials/tech/cybersecurity
+ 118. http://money.cnn.com/technology/innovationnation
+ 119. http://edition.cnn.com/specials/health/vital-signs
+ 120. http://edition.cnn.com/sport
+ 121. http://edition.cnn.com/sport/football
+ 122. http://edition.cnn.com/sport/golf
+ 123. http://edition.cnn.com/sport/tennis
+ 124. http://edition.cnn.com/sport/motorsport
+ 125. http://edition.cnn.com/sport/horse-racing
+ 126. http://edition.cnn.com/sport/equestrian
+ 127. http://edition.cnn.com/sport/sailing
+ 128. http://edition.cnn.com/sport/skiing
+ 129. http://edition.cnn.com/travel
+ 130. http://edition.cnn.com/travel/aviation
+ 131. http://edition.cnn.com/specials/travel/business-traveller
+ 132. http://edition.cnn.com/travel/destinations
+ 133. http://edition.cnn.com/specials/travel
+ 134. http://edition.cnn.com/travel/food-and-drink
+ 135. http://edition.cnn.com/travel/hotels
+ 136. http://www.cnnpartners.com/
+ 137. http://edition.cnn.com/style
+ 138. http://edition.cnn.com/style/fashion
+ 139. http://edition.cnn.com/style/design
+ 140. http://edition.cnn.com/style/architecture
+ 141. http://edition.cnn.com/style/arts
+ 142. http://edition.cnn.com/style/autos
+ 143. http://edition.cnn.com/style/luxury
+ 144. http://edition.cnn.com/specials
+ 145. http://edition.cnn.com/specials/world/freedom-project
+ 146. http://edition.cnn.com/specials/impact-your-world
+ 147. http://edition.cnn.com/specials/africa/inside-africa
+ 148. http://edition.cnn.com/specials/opinions/two-degrees
+ 149. http://edition.cnn.com/specials
+ 150. http://edition.cnn.com/videos
+ 151. http://edition.cnn.com/specials/latest-news-videos
+ 152. http://edition.cnn.com/specials/international-video-landing/feature-show-videos
+ 153. http://edition.cnn.com/tv/shows
+ 154. http://edition.cnn.com/tv/schedule/europe
+ 155. http://edition.cnn.com/specials/tv/anchors-and-reporters
+ 156. http://edition.cnn.com/more
+ 157. http://edition.cnn.com/weather
+ 158. http://edition.cnn.com/specials/cnn-heroes
+ 159. http://edition.cnn.com/specials/profiles
+ 160. http://edition.cnn.com/specials/more/cnn-leadership
+ 161. http://cnnpressroom.blogs.cnn.com/
+ 162. http://edition.cnn.com/specials/world/specials-page-cnn-partners
+ 163. http://edition.cnn.com/specials/opinions/cnnireport
+ 164. http://www.turner.com/
+ 165. http://edition.cnn.com/terms
+ 166. http://edition.cnn.com/privacy
+ 167. http://edition.cnn.com/
+ 168. http://commercial.cnn.com/
+ 169. http://edition.cnn.com/about
+ 170. http://edition.cnn.com/newsletters
+ 171. http://www.wearecnn.com/
+ 172. http://edition.cnn.com/help
+ 173. http://edition.cnn.com/transcripts
+ 174. http://edition.cnn.com/collection
+ 175. http://cnnnewsource.com/
+
+   Hidden links:
+ 177. http://edition.cnn.com/
+ 178. http://edition.cnn.com/

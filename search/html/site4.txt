@@ -1,0 +1,753 @@
+   #[1]publisher
+   REFRESH(720 sec): [2]http://www.reuters.com/home
+
+   IFRAME: [3]//www.googletagmanager.com/ns.html?id=GTM-W9SLGS
+
+   X
+
+   Edition:
+   United States
+
+     *
+     * [4]Business
+          + [5]Business Home
+          + [6]Legal
+          + [7]Deals
+          + [8]Aerospace & Defense
+          + [9]Finance
+          + [10]Autos
+          + [11]Reuters Summits
+          + [12]ADventures
+          + [13]Data Dive
+     * [14]Markets
+          + [15]Markets Home
+          + [16]U.S. Markets
+          + [17]European Markets
+          + [18]Asian Markets
+          + [19]Global Market Data
+          + [20]Indices
+          + [21]Stocks
+          + [22]Bonds
+          + [23]Currencies
+          + [24]Comm & Energy
+          + [25]Futures
+          + [26]Funds
+          + [27]Earnings
+          + [28]Dividends
+     * [29]World
+          + [30]World Home
+          + [31]U.S.
+          + [32]Special Reports
+          + [33]Reuters Investigates
+          + [34]Euro Zone
+          + [35]Middle East
+          + [36]China
+          + [37]Japan
+          + [38]Mexico
+          + [39]Brazil
+          + [40]Africa
+          + [41]Russia
+          + [42]India
+     * [43]Politics
+          + [44]Politics Home
+          + [45]Election 2016
+          + [46]Polling Explorer
+          + [47]Just In: Election 2016
+          + [48]What Voters Want
+          + [49]Supreme Court
+     * [50]Tech
+          + [51]Technology Home
+          + [52]Science
+          + [53]Top 100 Global Innovators
+          + [54]Environment
+          + [55]Innovation
+     * [56]Commentary
+          + [57]Commentary Home
+          + [58]Podcasts
+     * [59]Breakingviews
+          + [60]Breakingviews Home
+          + [61]Breakingviews Video
+     * [62]Money
+          + [63]Money Home
+          + [64]Retirement
+          + [65]Lipper Awards
+          + [66]Analyst Research
+          + [67]Stock Screener
+          + [68]Fund Screener
+     * [69]Life
+          + [70]Health
+          + [71]Sports
+          + [72]Arts
+          + [73]Entertainment
+          + [74]Oddly Enough
+     * Pictures
+          + [75]Pictures Home
+          + [76]The Wider Image
+          + [77]Photographers
+          + [78]Focus 360
+     * Video
+     *
+
+   ______________________________ Submit
+
+     * [79]Africa
+       [80]América Latina
+     * [81]عربي
+       [82]Argentina
+     * [83]Brasil
+       [84]Canada
+     * [85]中国
+       [86]Deutschland
+     * [87]España
+       [88]France
+     * [89]India
+       [90]Italia
+     * [91]日本
+       [92]México
+     * [93]РОССИЯ
+       [94]United Kingdom
+     * [95]United States
+
+   U.S. President elect Donald Trump reacts to a crowd gathered in the
+   lobby of the New York Times building after a meeting in New York, U.S.,
+   November 22, 2016. REUTERS/Lucas Jackson
+
+[96]Trump abandons climate change as hoax view
+
+   President-elect Donald Trump told the New York Times that he thinks
+   there is "some connectivity" between human activity and global warming
+   and said he was keeping an open mind on whether to pull out of a
+   landmark international deal to fight climate change.
+     * [97]Obama's not-so-secret admirer: Trump
+     * [98]Prosecuting Clinton would be 'very very divisive for the
+       country': Trump
+     * [99]Trump's grandfather asked to return to Germany: letter
+
+[100]Judge blocks Obama rule extending overtime pay to 4.2 million workers
+
+   6:29pm EST
+
+[101]Wall Street extends record streak, Dow breaks 19,000 for first time
+
+   5:38pm EST
+
+[102]Trump’s foundation says it violated 'self-dealing' ban: IRS forms
+
+   2:06pm EST
+
+[103]Pilots strike at cargo airline serving Amazon, DHL as holidays near
+
+   5:53pm EST
+
+[104]THE WIRE
+
+   6m ago
+
+[105]GameStop's holiday same-store sales forecast disappoints
+
+   4m ago
+
+[106]Colombia, FARC rebels to sign new peace deal on Thursday
+
+   15m ago
+
+[107]Pilot strike forces Lufthansa to cancel hundreds of flights on Wednesday
+and Thursday
+
+   18m ago
+
+[108]Hammond gives some help to UK poor, focus stays on budget gap
+
+   26m ago
+
+[109]Judge blocks Obama rule extending overtime pay to 4.2 million workers
+
+   29m ago
+
+[110]Civilian victims of mortar, sniper fire pour into Mosul clinic
+
+   34m ago
+
+[111]Benin authorities seize 54 kg of cocaine from Brazil
+
+   36m ago
+
+[112]Five years after the boom, battle rages over mining wages in Australia
+
+   41m ago
+
+[113]German pilot union to continue strikes at Lufthansa on Thursday
+
+   49m ago
+
+[114]Ex-congressman Ford being considered for U.S. transportation secretary:
+Politico
+
+   1h ago
+
+[115]U.S. existing home sales race to more than 9-1/2-year high
+
+   1h ago
+
+[116]Wall Street extends record streak, Dow breaks 19,000 for first time
+
+   1h ago
+
+[117]Willing to oppose Trump, some Senate Republicans gain leverage
+
+   2h ago
+
+[118]Canada should be ready to press China over Tibet, says exiled PM
+
+   2h ago
+
+[119]Trump keeping 'open mind' on pulling out of climate accord
+
+   2h ago
+
+[120]Factbox: Contenders for key jobs in Trump's administration
+
+   2h ago
+
+[121]U.S. SEC says ex-broker peddled securities after bar from industry
+
+   2h ago
+
+[122]HP Inc forecasts adjusted profit largely below estimates
+
+   2h ago
+
+[123]Mexico interest rates likely to follow U.S. move higher: Sanchez
+
+   2h ago
+
+[124]I am no 'medieval reactionary', says France's Fillon
+
+Featured
+
+[125]Reuters Investigates
+
+An unrequited love
+
+[126]Money
+
+A little known tax provision that could hurt
+
+[127]Data Dive
+
+   [128]Photo
+
+Amazon's bet on live sports
+
+[129]Focus 360
+
+Britain's fallen soldiers
+
+Pictures of the year: Animals
+
+More Top News
+
+[130]North Carolina governor requests vote recount in tight race
+
+   North Carolina Governor Pat McCrory announced on Tuesday he has
+   officially requested a recount of votes from the Nov. 8 election with
+   official results showing him trailing his Democratic challenger,
+   Attorney General Roy Cooper, by one-tenth of a point.
+   3:55pm EST
+
+[131]Ex-Cuomo aide, others indicted in New York bribery case
+
+   NEW YORK A former top aide to New York Governor Andrew Cuomo is among
+   eight men who have been indicted in a bribery and fraud case tied to
+   efforts to spur the upstate economy, federal prosecutors said on
+   Tuesday.
+   4:17pm EST
+
+[132]Colombia, FARC rebels to sign new peace deal on Thursday
+
+   BOGOTA A new peace accord between Colombia's government and Marxist
+   FARC rebels will be signed on Thursday and sent to Congress for
+   approval, the two sides said on Tuesday, bringing an end to the
+   five-decade-long civil war ever closer.
+   6:51pm EST
+
+[133]Exclusive: U.S. grants second Airbus license to sell planes to Iran
+
+   WASHINGTON The United States said on Tuesday it had issued a second
+   license to France's Airbus to sell commercial planes to Iran Air,
+   bringing Iran's flag carrier a step closer to receiving new Western
+   jets under last year's deal to ease sanctions.
+   4:03pm EST
+
+[134]Exclusive: Russian tankers defy EU ban to smuggle jet fuel to Syria -
+sources
+
+   LONDON Russian tankers have smuggled jet fuel to Syria through EU
+   waters, bolstering military supplies to a war-torn country where Moscow
+   is carrying out air strikes in support of the government, according to
+   sources with knowledge of the matter.
+   1:44pm EST
+
+[135]James Corden parlays 'Carpool Karaoke' into Grammys host gig
+
+   LOS ANGELES British actor and talk show host James Corden, whose
+   "Carpool Karaoke" segment has become a viral phenomenon, will host the
+   Grammy Awards in February, the Recording Academy said on Tuesday.
+   4:35pm EST
+
+[136]Markets
+
+     * STOCKS
+     * BONDS
+     * CURRENCIES
+     * COMMODITIES
+
+   chart
+     * [137]S&P »
+       2,202.94 USD
+       +0.22%
+     * [138]Dow »
+       19,023.87 USD
+       +0.35%
+     * [139]FTSE 100 »
+       6,819.72 GBP
+       +0.62%
+     * [140]Nikkei 225 »
+       18,162.94 JPY
+       +0.31%
+
+    Name   Yield Change
+   US 10YR
+   +2.314
+   5:04pm EST
+   -0.023
+   DE 10YR
+   +0.275
+   2:19pm EST
+   -0.006
+   JP 10YR
+   +0.025
+   10:00am EST
+   -0.005
+
+   6:55pm EST
+   Name   USD      EUR     JPY
+   USD  1        1.0585   0.0090
+   EUR  0.9447   1        0.0085
+   JPY  111.0100 117.4600 1
+
+     Index   Last Chg
+   Gold
+   1,209.90 USD
+   3:04pm EST
+   +0.30
+   Exp: Nov2016
+   Copper
+   2.54 USD
+   12:22pm EST
+   +0.03
+   Exp: Nov2016
+   Crude Oil
+   48.02 USD
+   6:43pm EST
+   -0.01
+   Exp: Dec2016
+
+Sponsored Searches
+
+[141]Reuters Pictures
+
+   Trump meets the press
+
+Trump meets the press
+
+   Editor\u0027s choice
+
+Editor's choice
+
+   The Wider Image
+
+[142]Business
+
+[143]U.S. existing home sales race to more than 9-1/2-year high
+
+[144]Trump sinks Asia trade pact, opening the way for China to lead
+
+[145]OPEC to debate oil output cut next week but Iraq, Iran hesitate
+
+[146]Markets
+
+[147]U.S. shares end at record highs for second day, oil steadies
+
+[148]Money Markets: Traders see U.S. rate hike as a sure thing in December
+
+[149]Oil prices end near flat on uncertain outcome from OPEC meeting
+
+[150]World
+
+[151]Pentagon says air strike killed 'senior al Qaeda leader' in Syria
+
+   WASHINGTON An air strike carried out by the United States last week
+   killed Abu Afghan Al-Masri, a "senior al Qaeda leader," near Sarmada,
+   Syria, on Nov. 18, Pentagon spokesman Peter Cook said on Tuesday.
+
+[152]Civilian victims of mortar, sniper fire pour into Mosul clinic
+
+[153]No special favors for Britain, EU lawmakers tell Brexit chief
+
+[154]Technology
+
+[155]Almost half the world will be online by end of 2016; poorer countries
+will lag, report shows
+
+[156]HP Inc forecasts adjusted profit largely below estimates
+
+[157]GameStop's holiday same-store sales forecast disappoints
+
+[158]Politics
+
+[159]Ex-congressman Ford being considered for U.S. transportation secretary:
+Politico
+
+[160]Democrats search for answers to stem a spreading Republican tide
+
+[161]Willing to oppose Trump, some Senate Republicans gain leverage
+
+[162]Deals
+
+[163]Dr Pepper Snapple, Pepsi buy drinks makers in bid to diversify
+
+[164]KKR to buy Nissan-backed supplier Calsonic for up to $4.5 billion
+
+[165]PepsiCo to buy probiotic drinks maker KeVita
+
+[166]OUR NEWSLETTERS
+
+   The best of Reuters news delivered right into your email box absolutely
+   free.
+
+Reuters News Now
+
+   All the news you need to start your day.
+   [BUTTON Input] (not implemented)_______ ____________________
+   Invalid address
+   Check your inbox and confirm your email address.
+
+Reuters Select
+
+   Editors' picks of the best reports, analyses and investigations from
+   the global Reuters team.
+   [BUTTON Input] (not implemented)_______ ____________________
+   Invalid address
+   Check your inbox and confirm your email address.
+
+[167]Reuters Video
+
+   U.K. to Trump: 'No vacancy' for Farage as ambassador 00:598:24am EST
+
+[168]U.K. to Trump: 'No vacancy' for Farage as ambassador
+
+   British Foreign Secretary Boris Johnson dismisses U.S. President-elect
+   Donald Trump's unprecedented expression of support for Brexit
+   campaigner Nigel Farage to be made British ambassador to Washington,
+   saying pointedly in parliament that there is no vacancy for the job.
+   Rough Cut (no reporter narration).
+   Kanye West hospitalised 01:10
+
+[169]Kanye West hospitalised
+
+   Rescues in Syria after more airstrikes 00:37
+
+[170]Rescues in Syria after more airstrikes
+
+   "Hamilton" actor: No apology needed over Pence remarks 00:38
+
+[171]"Hamilton" actor: No apology needed over Pence remarks
+
+   Pence not offended by 'Hamilton' comments 00:59
+
+[172]Pence not offended by 'Hamilton' comments
+
+   Follow Reuters:
+     * [173]Follow Us On Twitter
+     * [174]Follow Us On Facebook
+     * [175]Follow Us On RSS
+     * [176]Follow Us On Instagram
+     * [177]Follow Us On YouTube
+     * [178]Follow Us On LinkedIn
+
+   Subscribe: [179]Feeds | [180]Newsletters | [181]Podcasts | [182]Apps
+
+   [183]Reuters News Agency | [184]Brand Attribution Guidelines
+
+   Reuters is the news and media division of [185]Thomson Reuters. Thomson
+   Reuters is the world's largest international multimedia news agency,
+   providing investing news, world news, business news, technology news,
+   headline news, small business news, news alerts, personal finance,
+   stock market, and mutual funds information available on Reuters.com,
+   video, mobile, and interactive television platforms. Learn more about
+   Thomson Reuters products:
+   Eikon
+   Information, analytics and exclusive news on financial markets -
+   delivered in an intuitive desktop and mobile interface
+   Elektron
+   Everything you need to empower your workflow and enhance your
+   enterprise data management
+   World-Check
+   Screen for heightened risk individual and entities globally to help
+   uncover hidden risks in business relationships and human networks
+   Westlaw
+   Build the strongest argument relying on authoritative content,
+   attorney-editor expertise, and industry defining technology
+   ONESOURCE
+   The most comprehensive solution to manage all your complex and
+   ever-expanding tax and compliance needs
+   CHECKPOINT
+   The industry leader for online information for tax, accounting and
+   finance professionals
+
+   All quotes delayed a minimum of 15 minutes. [186]See here for a
+   complete list of exchanges and delays.
+     *
+     * [187]Site Feedback
+     * [188]Corrections
+     * [189]Advertise With Us
+     * [190]Advertising Guidelines
+     * [191][ico-evidon.png] AdChoices
+     * [192]Terms of Use
+     * [193]Privacy Policy
+
+References
+
+   Visible links
+   1. https://plus.google.com/+Reuters
+   2. http://www.reuters.com/home
+   3. http://www.googletagmanager.com/ns.html?id=GTM-W9SLGS
+   4. http://www.reuters.com/finance
+   5. http://www.reuters.com/finance
+   6. http://www.reuters.com/legal
+   7. http://www.reuters.com/finance/deals
+   8. http://www.reuters.com/subjects/aerospace-and-defense
+   9. http://www.reuters.com/subjects/banks
+  10. http://www.reuters.com/subjects/autos
+  11. http://www.reuters.com/finance/summits
+  12. http://www.reuters.com/news/subjects/ADventures
+  13. http://www.reuters.com/data-dive
+  14. http://www.reuters.com/finance/markets
+  15. http://www.reuters.com/finance/markets
+  16. http://www.reuters.com/finance/markets/us
+  17. http://www.reuters.com/finance/markets/europe
+  18. http://www.reuters.com/finance/markets/asia
+  19. http://www.reuters.com/finance/global-market-data
+  20. http://www.reuters.com/finance/markets/indices
+  21. http://www.reuters.com/finance/stocks
+  22. http://www.reuters.com/finance/bonds
+  23. http://www.reuters.com/finance/currencies
+  24. http://www.reuters.com/finance/commodities
+  25. http://www.reuters.com/finance/futures
+  26. http://www.reuters.com/finance/funds
+  27. http://www.reuters.com/finance/EarningsUS
+  28. http://www.reuters.com/finance/markets/dividends
+  29. http://www.reuters.com/news/world
+  30. http://www.reuters.com/news/world
+  31. http://www.reuters.com/news/us
+  32. http://www.reuters.com/subjects/specialReports
+  33. http://www.reuters.com/investigates/
+  34. http://www.reuters.com/subjects/euro-zone
+  35. http://www.reuters.com/subjects/middle-east
+  36. http://www.reuters.com/places/china
+  37. http://www.reuters.com/places/japan
+  38. http://www.reuters.com/places/mexico
+  39. http://www.reuters.com/places/brazil
+  40. http://www.reuters.com/places/africa
+  41. http://www.reuters.com/places/russia
+  42. http://www.reuters.com/places/india
+  43. http://www.reuters.com/politics
+  44. http://www.reuters.com/politics
+  45. http://www.reuters.com/politics/election2016
+  46. http://polling.reuters.com/
+  47. http://live.reuters.com/Event/Election_2016
+  48. http://www.reuters.com/election2016/the-undecided/
+  49. http://www.reuters.com/subjects/supreme-court
+  50. http://www.reuters.com/news/technology
+  51. http://www.reuters.com/news/technology
+  52. http://www.reuters.com/news/science
+  53. http://www.reuters.com/bizfinance/technology/Top100Innovators
+  54. http://www.reuters.com/news/environment
+  55. http://www.reuters.com/innovation
+  56. http://www.reuters.com/commentary
+  57. http://www.reuters.com/commentary
+  58. http://www.reuters.com/tools/podcasts/
+  59. http://www.reuters.com/breakingviews
+  60. http://www.reuters.com/breakingviews
+  61. http://www.reuters.com/video/breakingviews
+  62. http://www.reuters.com/finance/personal-finance
+  63. http://www.reuters.com/finance/personal-finance
+  64. http://www.reuters.com/finance/personal-finance/retirement
+  65. http://www.reuters.com/subjects/us-lipper-awards
+  66. http://www.reuters.com/finance/personal-finance/analyst-research
+  67. http://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp
+  68. http://funds.us.reuters.com/US/screener/screener.asp
+  69. http://www.reuters.com/news/lifestyle
+  70. http://www.reuters.com/news/health
+  71. http://www.reuters.com/news/sports
+  72. http://www.reuters.com/news/entertainment/arts
+  73. http://www.reuters.com/news/entertainment
+  74. http://www.reuters.com/news/oddlyEnough
+  75. http://www.reuters.com/news/pictures
+  76. http://widerimage.reuters.com/
+  77. http://widerimage.reuters.com/photographer
+  78. http://www.reuters.com/focus-360/
+  79. http://af.reuters.com/
+  80. http://lta.reuters.com/
+  81. http://ara.reuters.com/
+  82. http://ar.reuters.com/
+  83. http://br.reuters.com/
+  84. http://ca.reuters.com/
+  85. http://cn.reuters.com/
+  86. http://de.reuters.com/
+  87. http://es.reuters.com/
+  88. http://fr.reuters.com/
+  89. http://in.reuters.com/
+  90. http://it.reuters.com/
+  91. http://jp.reuters.com/
+  92. http://mx.reuters.com/
+  93. http://ru.reuters.com/
+  94. http://uk.reuters.com/
+  95. http://www.reuters.com/
+  96. http://www.reuters.com/article/us-usa-trump-idUSKBN13H1DZ
+  97. http://www.reuters.com/article/us-usa-trump-obama-idUSKBN13H23D
+  98. http://www.reuters.com/article/us-usa-trump-interview-factbox-idUSKBN13H2EZ
+  99. http://www.reuters.com/article/us-usa-trump-germany-idUSKBN13H2AT
+ 100. http://www.reuters.com/article/us-usa-employment-overtime-idUSKBN13H2JY
+ 101. http://www.reuters.com/article/us-usa-stocks-idUSKBN13H19R
+ 102. http://www.reuters.com/article/us-usa-trump-foundation-idUSKBN13H1O8
+ 103. http://www.reuters.com/article/us-air-transport-sr-strike-idUSKBN13H2HC
+ 104. http://www.reuters.com/theWire
+ 105. http://www.reuters.com/article/us-gamestop-results-idUSKBN13H2FE?il=0
+ 106. http://www.reuters.com/article/us-colombia-peace-idUSKBN13H1U5?il=0
+ 107. http://www.reuters.com/article/us-lufthansa-unions-cancellations-idUSKBN13H178?il=0
+ 108. http://www.reuters.com/article/us-britain-eu-budget-idUSKBN13H2F7?il=0
+ 109. http://www.reuters.com/article/us-usa-employment-overtime-idUSKBN13H2JY?il=0
+ 110. http://www.reuters.com/article/us-mideast-crisis-iraq-mosul-medics-idUSKBN13H23Q?il=0
+ 111. http://www.reuters.com/article/us-benin-drugs-idUSKBN13H2L8?il=0
+ 112. http://www.reuters.com/article/us-australia-economy-wages-idUSKBN13H2JZ?il=0
+ 113. http://www.reuters.com/article/us-lufthansa-unions-strike-idUSKBN13H2KP?il=0
+ 114. http://www.reuters.com/article/us-usa-trump-transportation-idUSKBN13H2K7?il=0
+ 115. http://www.reuters.com/article/us-usa-economy-idUSKBN13H1NQ?il=0
+ 116. http://www.reuters.com/article/us-usa-stocks-idUSKBN13H19R?il=0
+ 117. http://www.reuters.com/article/us-usa-congress-senate-trump-idUSKBN13H111?il=0
+ 118. http://www.reuters.com/article/us-china-tibet-canada-idUSKBN13H24S?il=0
+ 119. http://www.reuters.com/article/us-usa-trump-idUSKBN13H1DZ?il=0
+ 120. http://www.reuters.com/article/us-usa-trump-staff-factbox-idUSKBN13H2J2?il=0
+ 121. http://www.reuters.com/article/us-broker-fraud-idUSKBN13H2IM?il=0
+ 122. http://www.reuters.com/article/us-hp-results-idUSKBN13H2FQ?il=0
+ 123. http://www.reuters.com/article/mexico-economy-sanchez-idUSKBN13H2I6?il=0
+ 124. http://www.reuters.com/article/us-france-election-fillon-idUSKBN13H1XO?il=0
+ 125. http://www.reuters.com/investigates/
+ 126. http://www.reuters.com/news/archive/personalFinance?view=page
+ 127. http://www.reuters.com/data-dive
+ 128. http://www.reuters.com/article/us-datadive-amazon-idUSKBN13H25H
+ 129. http://www.reuters.com/focus-360
+ 130. http://www.reuters.com/article/us-usa-election-north-carolina-idUSKBN13H2CM
+ 131. http://www.reuters.com/article/us-new-york-corruption-idUSKBN13H2ER
+ 132. http://www.reuters.com/article/us-colombia-peace-idUSKBN13H1U5
+ 133. http://www.reuters.com/article/us-iran-aviation-usa-idUSKBN13H1W0
+ 134. http://www.reuters.com/article/us-mideast-crisis-syria-fuel-exclusive-idUSKBN13H1T8
+ 135. http://www.reuters.com/article/us-awards-grammys-jamescorden-idUSKBN13H1ZX
+ 136. http://www.reuters.com/finance/markets
+ 137. http://www.reuters.com/finance/markets/index?symbol=.SPX
+ 138. http://www.reuters.com/finance/markets/index?symbol=.DJI
+ 139. http://www.reuters.com/finance/markets/index?symbol=.FTSE
+ 140. http://www.reuters.com/finance/markets/index?symbol=.N225
+ 141. http://www.reuters.com/news/pictures
+ 142. http://www.reuters.com/finance
+ 143. http://www.reuters.com/article/us-usa-economy-idUSKBN13H1NQ
+ 144. http://www.reuters.com/article/us-usa-trump-tpp-idUSKBN13H0OT
+ 145. http://www.reuters.com/article/us-opec-meeting-nigeria-idUSKBN13H0SD
+ 146. http://www.reuters.com/finance/markets
+ 147. http://www.reuters.com/article/us-global-markets-idUSKBN13H250
+ 148. http://www.reuters.com/article/us-usa-moneymarkets-idUSKBN13H1HB
+ 149. http://www.reuters.com/article/us-global-oil-idUSKBN13H032
+ 150. http://www.reuters.com/news/world
+ 151. http://www.reuters.com/article/us-mideast-crisis-usa-strike-idUSKBN13H2A4
+ 152. http://www.reuters.com/article/us-mideast-crisis-iraq-mosul-medics-idUSKBN13H23Q
+ 153. http://www.reuters.com/article/us-britain-eu-idUSKBN13H24I
+ 154. http://www.reuters.com/news/technology
+ 155. http://www.reuters.com/article/us-internet-itu-idUSKBN13H0XG
+ 156. http://www.reuters.com/article/us-hp-results-idUSKBN13H2FQ
+ 157. http://www.reuters.com/article/us-gamestop-results-idUSKBN13H2FE
+ 158. http://www.reuters.com/politics
+ 159. http://www.reuters.com/article/us-usa-trump-transportation-idUSKBN13H2K7
+ 160. http://www.reuters.com/article/us-usa-politics-democrats-analysis-idUSKBN13H11P
+ 161. http://www.reuters.com/article/us-usa-congress-senate-trump-idUSKBN13H111
+ 162. http://www.reuters.com/finance/deals
+ 163. http://www.reuters.com/article/us-baibrands-m-a-dr-pepper-snapp-idUSKBN13H14U
+ 164. http://www.reuters.com/article/us-calsonic-kansei-m-a-nissan-kkr-idUSKBN13G2B8
+ 165. http://www.reuters.com/article/us-kevita-m-a-pepsico-idUSKBN13H1LN
+ 166. http://newslink.reuters.com/join/subscribe
+ 167. http://www.reuters.com/video
+ 168. http://www.reuters.com/video/2016/11/22/uk-to-trump-no-vacancy-for-farage-as-amb?videoId=370528300&videoChannel=118169
+ 169. http://www.reuters.com/video/2016/11/22/kanye-west-hospitalised?videoId=370525429&videoChannel=118169
+ 170. http://www.reuters.com/video/2016/11/21/rescues-in-syria-after-more-airstrikes?videoId=370520993&videoChannel=118169
+ 171. http://www.reuters.com/video/2016/11/21/hamilton-actor-no-apology-needed-over-pe?videoId=370520033&videoChannel=118169
+ 172. http://www.reuters.com/video/2016/11/20/pence-not-offended-by-hamilton-comments?videoId=370511347&videoChannel=118169
+ 173. http://www.twitter.com/reuters
+ 174. http://www.facebook.com/Reuters
+ 175. http://www.reuters.com/tools/rss
+ 176. https://instagram.com/reuters/
+ 177. https://www.youtube.com/user/ReutersVideo
+ 178. https://www.linkedin.com/company/thomson-reuters_1400
+ 179. http://www.reuters.com/tools/rss
+ 180. http://newslink.reuters.com/join/subscribe
+ 181. http://www.reuters.com/tools/podcasts
+ 182. http://www.reuters.com/tools/mobile
+ 183. http://agency.reuters.com/
+ 184. http://agency.reuters.com/en/platforms-delivery/reuters-brand-attribution-guidelines.html
+ 185. http://thomsonreuters.com/
+ 186. http://www.reuters.com/info/disclaimer
+ 187. http://reuters.zendesk.com/
+ 188. https://reuters.zendesk.com/anonymous_requests/new
+ 189. http://sales.reuters.com/
+ 190. http://www.reuters.com/advertising-guidelines
+ 191. http://info.evidon.com/pub_info/285?v=1
+ 192. http://www.reuters.com/terms-of-use
+ 193. http://www.reuters.com/privacy-policy
+
+   Hidden links:
+ 195. http://www.reuters.com/
+ 196. http://www.reuters.com/
+ 197. http://www.reuters.com/home
+ 198. http://www.reuters.com/news/pictures
+ 199. http://www.reuters.com/video
+ 200. http://www.reuters.com/article/us-usa-trump-idUSKBN13H1DZ
+ 201. http://www.reuters.com/investigates/special-report/japan-detention-children/
+ 202. http://www.reuters.com/article/us-taxes-refunds-delays-idUSKBN13H29H
+ 203. http://www.reuters.com/focus-360/content?focus_piece=81&type=ss
+ 204. http://www.reuters.com/news/pictures
+ 205. http://www.reuters.com/news/picture/pictures-of-the-year-animals?articleId=USRTSSPXR
+ 206. http://www.reuters.com/article/us-usa-election-north-carolina-idUSKBN13H2CM
+ 207. http://www.reuters.com/article/us-new-york-corruption-idUSKBN13H2ER
+ 208. http://www.reuters.com/article/us-colombia-peace-idUSKBN13H1U5
+ 209. http://www.reuters.com/article/us-iran-aviation-usa-idUSKBN13H1W0
+ 210. http://www.reuters.com/article/us-mideast-crisis-syria-fuel-exclusive-idUSKBN13H1T8
+ 211. http://www.reuters.com/article/us-awards-grammys-jamescorden-idUSKBN13H1ZX
+ 212. http://www.reuters.com/news/picture/trump-meets-the-press?articleId=USRTSSVFI
+ 213. http://www.reuters.com/news/picture/editors-choice?articleId=USRTSSRX9
+ 214. http://www.reuters.com/
+ 215. http://www.reuters.com/article/us-usa-economy-idUSKBN13H1NQ
+ 216. http://www.reuters.com/article/us-global-markets-idUSKBN13H250
+ 217. http://www.reuters.com/article/us-internet-itu-idUSKBN13H0XG
+ 218. http://www.reuters.com/article/us-usa-trump-transportation-idUSKBN13H2K7
+ 219. http://www.reuters.com/article/us-baibrands-m-a-dr-pepper-snapp-idUSKBN13H14U
+ 220. http://www.reuters.com/video/2016/11/22/uk-to-trump-no-vacancy-for-farage-as-amb?videoId=370528300&videoChannel=118169
+ 221. http://www.reuters.com/video/2016/11/22/kanye-west-hospitalised?videoId=370525429&videoChannel=118169
+ 222. http://www.reuters.com/video/2016/11/21/rescues-in-syria-after-more-airstrikes?videoId=370520993&videoChannel=118169
+ 223. http://www.reuters.com/video/2016/11/21/hamilton-actor-no-apology-needed-over-pe?videoId=370520033&videoChannel=118169
+ 224. http://www.reuters.com/video/2016/11/20/pence-not-offended-by-hamilton-comments?videoId=370511347&videoChannel=118169
+ 225. http://financial.thomsonreuters.com/en/products/tools-applications/trading-investment-tools/eikon-trading-software.html
+ 226. http://financial.thomsonreuters.com/en/products/infrastructure/trading-infrastructure/elektron-enterprise-data-management.html
+ 227. https://risk.thomsonreuters.com/products/world-check
+ 228. http://legalsolutions.thomsonreuters.com/law-products/westlaw-legal-research/
+ 229. https://tax.thomsonreuters.com/products/brands/onesource/
+ 230. https://tax.thomsonreuters.com/products/brands/checkpoint/
